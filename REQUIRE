@@ -1,1 +1,4 @@
 julia 0.4
+PyPlot 2.2.0
+Plots 0.8.2
+HDF5 0.6.4
