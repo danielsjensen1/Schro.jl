@@ -1,5 +1,5 @@
 using HDF5
-using Plots
+using PyPlot
 using Schro
 
 function sho(Li=-5e0, Lf=5e0, xpts=101)
